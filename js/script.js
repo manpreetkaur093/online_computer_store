@@ -1,0 +1,1 @@
+console.log("Computer store JS loaded");
