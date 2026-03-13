@@ -15,7 +15,4 @@ A full-stack web platform to browse and purchase computer products. Includes use
 4. Run `index.php` in browser
 
 ## Author
-Manpreet Kaur – Student ID 239439610
-Maninder Kaur - Student ID 239608790
-Dhyaan Patel - Student ID 239624500
-Vedant Prajapati - Student ID 239615070
+Manpreet Kaur
